@@ -98,7 +98,7 @@ olist-ecommerce-analytics/
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### 1. Database Connection
 Create a `pass.env` file in the root directory with your PostgreSQL connection parameters:
